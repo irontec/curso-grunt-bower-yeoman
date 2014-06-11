@@ -2,7 +2,7 @@
 
 ```bash
 # Install nvm - Node Version Manager
-curl https://raw.github.com/creationix/nvm/master/install.sh | sh
+wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.7.0/install.sh | sh
 
 # Load nvm 
 source ~/.nvm/nvm.sh
